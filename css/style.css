@@ -1258,9 +1258,7 @@ footer .wrapper3 .bottom .copyright h2 {
 
 /* Responsive */
 @media all and (min-width:320px) and (max-width:480px){
-    *{
-        color: black;
-    }
+
     header .wrapper .main {
         display: flex;
         height: 12vh;
